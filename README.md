@@ -35,7 +35,4 @@ Take-off the drone by pressing `TAB` and press `L` to begin tracking. Once done,
 ## Recording Videos
 Press `R` to toggle recording and press again to finish. The recorded videos and pictures are saved in  <home>/Pictures
 
-<div align="center">
-  <a href="https://www.youtube.com/watch?v=RMD8G3Na71s"><img src="1.png" alt="Mask RCNN COCO Object detection and segmentation
-" width="550"></a>
-</div>
+
